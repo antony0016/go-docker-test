@@ -17,3 +17,6 @@
 
 # Environment file
 .env
+
+# my need to ignore file
+draft.md

@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/antony0016/go-test/a"
+)
 
 func main() {
-	fmt.Println("hello world!")
+	fmt.Println(a.HelloWorld())
 }
