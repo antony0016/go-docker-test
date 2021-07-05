@@ -7,6 +7,6 @@ import (
 
 func TestHelloWorld(t *testing.T) {
 	if a.HelloWorld() != "HelloWorld" {
-		t.Errorf("HelloWorld test failed")
+		t.Errorf("HelloWorld test failed...")
 	}
 }
